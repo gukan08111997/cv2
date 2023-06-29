@@ -1,0 +1,42 @@
+body{
+  margin:0;
+}
+h3{
+  background-color:#5F9DF7;
+}
+.name{
+  margin:0;
+  padding-left:100px;
+}
+.email,.phone,.address,.linkedin{
+  width:25px;
+  height:25px;
+}
+.profile{
+  height:150px;
+  width:150px;
+  position:absolute;
+  right:100px;
+  bottom:5px;
+}
+.table1{
+  line-height:0;
+}
+.top-container{
+  background-color:#5F9DF7;
+  position:relative;
+}
+.bottom-container{
+  margin:0;
+  padding:0;
+line-height:1.2;
+  
+}
+.left-div{
+background-color:powderblue;
+text-align:left;
+}
+.right-div{
+display:block;
+margin-left:15px;
+}
